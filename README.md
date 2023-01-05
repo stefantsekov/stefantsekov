@@ -2,7 +2,7 @@
 <h3 align="center">I work as a full-stack developer at <a href="https://app-streams.com" target="blank">App Streams</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefantsekov&label=Profile%20views&color=0e75b6&style=flat" alt="stefantsekov" /> </p>
-<img align="right" alt="stefantsekov" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
+<img align="right" alt="stefantsekov" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
 📫 You can reach me **stefan.tsekov@app-streams.com**
 

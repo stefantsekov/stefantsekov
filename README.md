@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefan Tsekov</h1>
+<h1 align="center">👋, I'm Stefan Tsekov</h1>
 <h3 align="center">I work as a full-stack developer at <a href="https://app-streams.com" target="blank">App Streams</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefantsekov&label=Profile%20views&color=0e75b6&style=flat" alt="stefantsekov" /> </p>

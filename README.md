@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefantsekov&label=Profile%20views&color=0e75b6&style=flat" alt="stefantsekov" /> </p>
 
-📫 You can reach me **stefan.tsekov@app-streams.com**
+📫 You can reach me on **stefan.tsekov@app-streams.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
